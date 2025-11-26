@@ -2,7 +2,15 @@
 
 A comprehensive tutorial demonstrating how to build, trace, and evaluate a **ReAct agent** using **LangGraph**, **Claude**, and **Arize Phoenix**. This notebook walks through creating an agent with multiple tools and applying three different evaluation methodologies.
 
-https://youtu.be/O07AV1CIXfo?si=nfeX-pI9NPU-z_Ed
+## 🎥 Demo
+
+<p align="center">
+  <a href="[https://www.youtube.com/watch?v=VIDEO_ID_HERE](https://www.youtube.com/watch?v=O07AV1CIXfo)">
+    <img src="./assets/thumbnail.jpeg" alt="Agent Evals Demo" width="600">
+  </a>
+  <br>
+  <em>▶️ Watch: AI Evals with Claude + LangGraph + Tavily Web Search + Arize Phoenix Pt. II 🦅🔥 — AI PM BY DESIGN</em>
+</p>
 
 ---
 
@@ -18,9 +26,9 @@ This notebook demonstrates an end-to-end workflow for:
 
 ## 🏗️ Architecture
 
-```
-
-```
+<p align="center">
+  <img src="./assets/architecture.png" alt="ReAct Agent Architecture" width="700">
+</p>
 
 ---
 
