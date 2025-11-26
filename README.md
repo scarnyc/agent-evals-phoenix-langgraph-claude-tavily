@@ -3,7 +3,7 @@
 A comprehensive tutorial demonstrating how to build, trace, and evaluate a **ReAct agent** using **LangGraph**, **Claude**, and **Arize Phoenix**. This notebook walks through creating an agent with multiple tools and applying three different evaluation methodologies.
 
 <p align="center">
-  <a href="[https://www.youtube.com/watch?v=VIDEO_ID](https://youtu.be/O07AV1CIXfo?si=nfeX-pI9NPU-z_Ed)">
+  <a href="[https://www.youtube.com/watch?v=VIDEO_ID](https://youtu.be/O07AV1CIXfo?si=nfeX-pI9NPU-z_Edhttps://youtu.be/O07AV1CIXfo?si=nfeX-pI9NPU-z_Ed)">
     <img src="https://img.youtube.com/vi/VIDEO_ID/maxresdefault.jpg" alt="Watch the demo" width="600">
   </a>
   <br>
