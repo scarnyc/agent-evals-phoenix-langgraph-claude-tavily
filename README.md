@@ -5,7 +5,7 @@ A comprehensive tutorial demonstrating how to build, trace, and evaluate a **ReA
 ## 🎥 Demo
 
 <p align="center">
-  <a href="[https://www.youtube.com/watch?v=VIDEO_ID_HERE](https://www.youtube.com/watch?v=O07AV1CIXfo)">
+  <a href="https://www.youtube.com/watch?v=O07AV1CIXfo">
     <img src="./assets/thumbnail.jpg" alt="Agent Evals Demo" width="600">
   </a>
   <br>
