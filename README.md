@@ -225,15 +225,6 @@ claude = ChatAnthropic(
 
 ---
 
-## 🤝 Contributing
-
-Feel free to open issues or submit PRs for:
-- Additional evaluation templates
-- New tool integrations
-- Performance optimizations
-
----
-
 ## 📄 License
 
 MIT License - See LICENSE file for details.
